@@ -1,3 +1,5 @@
+package com.company.ch1;
+
 public class BeerSong {
     public static void main(String[] args) {
         int beerNum = 99;
